@@ -1,0 +1,15 @@
+# Customer Segmentation using RFM Analysis
+
+## Objective
+Segment customers based on purchasing behavior using RFM Analysis and K-Means Clustering.
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- Power BI
+
+## Key Insights
+- High-value customers identified
+- At-risk customers identified
+- Marketing recommendations generated
