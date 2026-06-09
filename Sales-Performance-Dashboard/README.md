@@ -12,7 +12,7 @@ An interactive Power BI dashboard built using the Superstore dataset to analyze 
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard_final.png)
+![Dashboard](Images/sales_dasb_final.png)
 
 ## Business Questions Answered
 
