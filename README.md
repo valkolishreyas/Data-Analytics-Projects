@@ -1,46 +1,71 @@
-# Data Analytics Portfolio
+# Data Analytics Projects
 
-Hi, I'm Shreyas Valkoli.
+A collection of end-to-end Data Analytics projects demonstrating skills in SQL, Python, Power BI, Excel, data cleaning, data visualization, and business intelligence.
 
-Aspiring Data Analyst / Business Analyst / MIS Executive with experience in SQL, Python, Excel, Google Sheets and Power BI.
+## Tools & Technologies
 
-## Skills
-
-- SQL
+- SQL Server
 - Python
-- Excel
+- Pandas
+- NumPy
 - Power BI
-- Data Visualization
-- Dashboard Development
-- MIS Reporting
+- Microsoft Excel
+- Git & GitHub
+
+---
 
 ## Projects
 
-### Customer Segmentation using RFM Analysis
-- Python
-- K-Means Clustering
-- Power BI Dashboard
+### 1. Customer Segmentation Using RFM Analysis
+**Tools:** Python, Pandas, Power BI
 
-### Inventory Optimization & Demand Forecasting
-- Excel
-- SQL
-- Power BI
+- Performed customer segmentation using Recency, Frequency, and Monetary (RFM) analysis.
+- Classified customers into segments such as Champions, Loyal Customers, At Risk, and Needs Attention.
+- Built an interactive dashboard to visualize customer behavior and business insights.
 
-### Sales Dashboard Analysis
-- SQL
-- Power BI
-- Excel
+📁 Folder: `Customer-Segmentation-RFM`
 
-### HR Analytics Dashboard
-- KPI Analysis
+---
+
+### 2. Sales Performance Dashboard
+**Tools:** SQL Server, Power BI
+
+- Analyzed sales, profit, orders, products, customers, and regional performance.
+- Developed SQL queries for KPI calculation and business analysis.
+- Created an interactive Power BI dashboard for sales monitoring and decision-making.
+
+📁 Folder: `Sales-Performance-Dashboard`
+
+---
+
+### 3. HR Analytics Dashboard
+**Tools:** Power BI, DAX
+
+- Analyzed employee attrition, workforce demographics, salary trends, and tenure.
+- Built KPIs including Attrition Rate, Average Salary, Average Age, and Average Tenure.
+- Identified key attrition drivers across departments, job roles, and employee groups.
+
+📁 Folder: `HR-Analytics-Dashboard`
+
+---
+
+## Key Skills Demonstrated
+
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- SQL Querying & Aggregation
+- Business Intelligence Reporting
+- Dashboard Development
+- Customer Analytics
+- Sales Analytics
+- HR Analytics
 - Data Visualization
+- KPI Design
 
-## Certifications
+---
 
-- Google Data Analytics Professional Certificate
-- HackerRank SQL (Advanced)
-- HackerRank Python (Basic)
+## Author
 
-## Contact
+**Shreyas Valkoli**
 
-Email: shreyas.valkoli22@spit.ac.in
+Aspiring Data Analyst | SQL | Python | Power BI | Business Intelligence
